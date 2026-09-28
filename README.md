@@ -244,8 +244,7 @@ The project can be extended in the future by adding:
 * Add sorting and filtering functionality
 
 ## 👩‍💻 Author
-
-**Preethi Ahalya**
+** Swathi Thiyyagura**
 
 Computer Science & Engineering Student
 
